@@ -25,7 +25,14 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://icons8.com/icon/7I3BjCqe9rjG/flutter">Flutter icon by Icons8</a>
+   <a href="https://www.anandmagar.com" target="black"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+    <a href="www.firebase.com" target ="blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+    <a href="www.figma.com" target="blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+    <a href"www.adobexd.com" target="blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png"/> </a>
+    <a href="www.adobe.com" target="blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/> </a>
+    <a href="www.adobe.com" target="blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v2.png"/> </a>
+    <a href="www.adobe.com" target="blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v2.png"/> </a>
+    <a href="www.adobe.com" target="blank"> <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
